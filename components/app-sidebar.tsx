@@ -34,15 +34,15 @@ const data = {
       isActive: true,
       items: [
         {
-          title: "History",
+          title: "Countries",
           url: "#",
         },
         {
-          title: "Starred",
+          title: "Capitals",
           url: "#",
         },
         {
-          title: "Settings",
+          title: "Flags",
           url: "#",
         },
       ],
